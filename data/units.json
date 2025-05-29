@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "available": true,
+    "name": "Sample Driver",
+    "email": "sample@example.com",
+    "phone": "123-456-7890",
+    "owner": "0001",
+    "location": "Chicago, Illinois 60601, United States",
+    "vehicleType": "Large Straight",
+    "dimensions": "300/100/105 (90*95)",
+    "capacity": 8500,
+    "note": "این فقط یک نمونه تستی است."
+  }
+]
