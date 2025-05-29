@@ -1,5 +1,5 @@
-import UnitTable from "@/components/UnitTable";
-import AddUnitForm from "@/components/AddUnitForm";
+import UnitTable from "../components/UnitTable";
+import AddUnitForm from "../components/AddUnitForm";
 
 export default function UnitsPage() {
   return (
